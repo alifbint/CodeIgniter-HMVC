@@ -1,5 +1,5 @@
 # CodeIgniter-HMVC
-Hirarci Model View Controller Third Party For CodeIgniter Framework
+Hierarchy Model View Controller Third Party For CodeIgniter Framework
 
 ## How To Use ##
 1. Copy File MY_Loader.php and MY_Router.php to folder application/core
